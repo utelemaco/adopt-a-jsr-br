@@ -18,8 +18,8 @@ title: Adopt a JSR Br
 description: > # this means to ignore newlines until "baseurl:"
   Adopt a JSR Br Blog é uma iniciativa do SouJava que tem como principal objetivo
   ajudar na divulgação da tecnologia Java no Brasil.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/adopt-a-jsr-br/" # the subpath of your site, e.g. /blog
+url: "http://processhub.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: adoptajsrbr
 #github_username:  jekyll
 
