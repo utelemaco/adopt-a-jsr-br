@@ -2,7 +2,7 @@
 layout: post
 title:  "Brasileiros no JCP"
 date:   2016-04-28 10:56:54 -0300
-categories: jekyll update
+categories: community
 permalink: /2016/11/01/brasileiros-no-jcp
 ---
 
